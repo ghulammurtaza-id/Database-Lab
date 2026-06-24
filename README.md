@@ -1,2 +1,2 @@
 # Database-Lab
-SQL scripts, ER diagrams,and Lab Tasks for the Database Management Systems (DBMS) lab course.
+This repository contains a structured collection of lab assignments and practical work for the Database Management Systems course. It includes SQL scripts covering Data Definition Language (DDL), Data Manipulation Language (DML), complex joins, and advanced querying techniques. Additionally, it features database design assets such as Entity-Relationship (ER) diagrams and schema design. The codebase serves as a comprehensive log of practical database creation, management, and optimization techniques.
