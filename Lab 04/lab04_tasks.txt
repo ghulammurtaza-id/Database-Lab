@@ -1,0 +1,14 @@
+Lab 04 - In Lab Queries
+1) Retrieve the employee ID, first name, last name, and monthly salary of all employees from the employees table, and calculate their annual salary by multiplying the monthly salary by 12.
+
+2) Retrieve the employee ID, first name, last name, salary, and department ID of employees who earn more than 5000 and work in department 90.
+
+3) Retrieve the employee ID, first name, last name, and salary of employees whose salary is between 3000 and 7000.
+
+4) Shows employees who belong to departments 10, 20, or 30
+
+5) Write an SQL statement to display the employee ID and first name of all employees whose first name starts with the letter ‘S’, has any single character as the second letter, and contains the letter ‘a’ anywhere after that.
+
+6) Write an SQL statement to display the employee ID, first name, department ID, and salary of all employees. Sort the result first in ascending order of department ID and then in descending order of salary within each department.
+
+7) Write an SQL statement to display the employee ID, first name, and salary of all employees. Fetch only the last 5 employees based on the employee ID in descending order.
